@@ -1,0 +1,74 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  
+  <servlet>
+  	<servlet-name>RegisterController</servlet-name>
+  	<display-name>RegisterController</display-name>
+  	<description></description>
+  	<servlet-class>com.rideCompany.controller.RegisterController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>LoginController</servlet-name>
+  	<display-name>LoginController</display-name>
+  	<description></description>
+  	<servlet-class>com.rideCompany.controller.LoginController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>MngAdminController</servlet-name>
+  	<display-name>MngAdminController</display-name>
+  	<description></description>
+  	<servlet-class>com.rideCompany.controller.MngAdminController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>MngCustomerController</servlet-name>
+  	<display-name>MngCustomerController</display-name>
+  	<description></description>
+  	<servlet-class>com.rideCompany.controller.MngCustomerController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>MngStaffController</servlet-name>
+  	<display-name>MngStaffController</display-name>
+  	<description></description>
+  	<servlet-class>com.rideCompany.controller.MngStaffController</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>MngDriverController</servlet-name>
+  	<display-name>MngDriverController</display-name>
+  	<description></description>
+  	<servlet-class>com.rideCompany.controller.MngDriverController</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>RegisterController</servlet-name>
+  	<url-pattern>/RegisterController</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+  	<servlet-name>LoginController</servlet-name>
+  	<url-pattern>/LoginController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>MngAdminController</servlet-name>
+  	<url-pattern>/MngAdminController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>MngCustomerController</servlet-name>
+  	<url-pattern>/MngCustomerController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>MngStaffController</servlet-name>
+  	<url-pattern>/MngStaffController</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>MngDriverController</servlet-name>
+  	<url-pattern>/MngDriverController</url-pattern>
+  </servlet-mapping>
+ 
+
+
+
+</web-app>
