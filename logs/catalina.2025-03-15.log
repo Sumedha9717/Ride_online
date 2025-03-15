@@ -1,0 +1,246 @@
+15-Mar-2025 05:36:17.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.35
+15-Mar-2025 05:36:17.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 4 2025 21:16:31 UTC
+15-Mar-2025 05:36:17.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.35.0
+15-Mar-2025 05:36:17.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+15-Mar-2025 05:36:17.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Mar-2025 05:36:17.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Mar-2025 05:36:17.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.2
+15-Mar-2025 05:36:17.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-LTS-86
+15-Mar-2025 05:36:17.813 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Mar-2025 05:36:17.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Sumedha\Downloads\Music\ride\ride-online
+15-Mar-2025 05:36:17.814 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+15-Mar-2025 05:36:17.824 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Sumedha\Downloads\Music\ride\ride-online
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Sumedha\Downloads\Music\ride\ride-online\temp
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\logging.properties
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=2833
+15-Mar-2025 05:36:17.826 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Mar-2025 05:36:17.906 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Sumedha\dev\flutter\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Users\Sumedha\AppData\Local\Android\Sdk\platform-tools;C:\xampp\mysql\bin;C:\Users\Sumedha\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Program Files\Java\jdk-21\bin;C:\dart-sdk\bin;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Sumedha\dev\flutter\bin;C:\Users\Sumedha\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Sumedha\AppData\Local\Programs\Python\Python311\;C:\Users\Sumedha\AppData\Local\Microsoft\WindowsApps;C:\Users\Sumedha\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Sumedha\AppData\Roaming\Composer\vendor\bin;C:\Users\Sumedha\AppData\Local\GitHubDesktop\bin;C:\xampp\mysql\bin;C:\Program Files\Java\jdk-21\bin;C:\Users\Sumedha\AppData\Local\JetBrains\Toolbox\scripts;C:\dart-sdk\bin;C:\Users\Sumedha\AppData\Roaming\npm;C:\Users\Sumedha\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\bin;;.]
+15-Mar-2025 05:36:18.185 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 05:36:18.205 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [588] milliseconds
+15-Mar-2025 05:36:18.253 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Mar-2025 05:36:18.253 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.35]
+15-Mar-2025 05:36:18.266 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml]
+15-Mar-2025 05:36:19.536 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Mar-2025 05:36:19.695 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml] has finished in [1,429] ms
+15-Mar-2025 05:36:19.700 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 05:36:19.755 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1549] milliseconds
+15-Mar-2025 05:42:24.649 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 05:42:24.696 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Mar-2025 05:42:24.696 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 05:42:24.712 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 05:42:26.312 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.35
+15-Mar-2025 05:42:26.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 4 2025 21:16:31 UTC
+15-Mar-2025 05:42:26.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.35.0
+15-Mar-2025 05:42:26.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+15-Mar-2025 05:42:26.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Mar-2025 05:42:26.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Mar-2025 05:42:26.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.2
+15-Mar-2025 05:42:26.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-LTS-86
+15-Mar-2025 05:42:26.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Mar-2025 05:42:26.318 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Sumedha\Downloads\Music\ride\ride-online
+15-Mar-2025 05:42:26.319 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+15-Mar-2025 05:42:26.331 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Sumedha\Downloads\Music\ride\ride-online
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Sumedha\Downloads\Music\ride\ride-online\temp
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\logging.properties
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=2920
+15-Mar-2025 05:42:26.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Mar-2025 05:42:26.409 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Sumedha\dev\flutter\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Users\Sumedha\AppData\Local\Android\Sdk\platform-tools;C:\xampp\mysql\bin;C:\Users\Sumedha\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Program Files\Java\jdk-21\bin;C:\dart-sdk\bin;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Sumedha\dev\flutter\bin;C:\Users\Sumedha\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Sumedha\AppData\Local\Programs\Python\Python311\;C:\Users\Sumedha\AppData\Local\Microsoft\WindowsApps;C:\Users\Sumedha\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Sumedha\AppData\Roaming\Composer\vendor\bin;C:\Users\Sumedha\AppData\Local\GitHubDesktop\bin;C:\xampp\mysql\bin;C:\Program Files\Java\jdk-21\bin;C:\Users\Sumedha\AppData\Local\JetBrains\Toolbox\scripts;C:\dart-sdk\bin;C:\Users\Sumedha\AppData\Roaming\npm;C:\Users\Sumedha\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\bin;;.]
+15-Mar-2025 05:42:26.658 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 05:42:26.678 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [630] milliseconds
+15-Mar-2025 05:42:26.717 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Mar-2025 05:42:26.717 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.35]
+15-Mar-2025 05:42:26.735 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml]
+15-Mar-2025 05:42:27.986 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Mar-2025 05:42:28.153 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml] has finished in [1,418] ms
+15-Mar-2025 05:42:28.157 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 05:42:28.214 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1535] milliseconds
+15-Mar-2025 06:09:48.265 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:09:48.296 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Mar-2025 06:09:48.312 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:09:48.328 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:10:39.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.98
+15-Mar-2025 06:10:39.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 19:50:29 UTC
+15-Mar-2025 06:10:39.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.98.0
+15-Mar-2025 06:10:39.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+15-Mar-2025 06:10:39.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Mar-2025 06:10:39.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Mar-2025 06:10:39.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.2
+15-Mar-2025 06:10:39.971 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-LTS-86
+15-Mar-2025 06:10:39.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Mar-2025 06:10:39.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Sumedha\Downloads\Music\ride\ride-online
+15-Mar-2025 06:10:39.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 9.0.98
+15-Mar-2025 06:10:39.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Mar-2025 06:10:39.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Mar-2025 06:10:39.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Mar-2025 06:10:39.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Mar-2025 06:10:39.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Mar-2025 06:10:39.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 9.0.98
+15-Mar-2025 06:10:39.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Sumedha\Downloads\Music\ride\ride-online
+15-Mar-2025 06:10:39.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Sumedha\Downloads\Music\ride\ride-online\temp
+15-Mar-2025 06:10:39.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\logging.properties
+15-Mar-2025 06:10:39.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Mar-2025 06:10:39.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=3200
+15-Mar-2025 06:10:39.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Mar-2025 06:10:39.987 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+15-Mar-2025 06:10:39.987 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+15-Mar-2025 06:10:39.987 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+15-Mar-2025 06:10:39.994 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+15-Mar-2025 06:10:40.319 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:10:40.343 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [556] milliseconds
+15-Mar-2025 06:10:40.391 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Mar-2025 06:10:40.391 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.98]
+15-Mar-2025 06:10:40.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml]
+15-Mar-2025 06:10:40.685 SEVERE [main] org.apache.catalina.startup.HostConfig.deployDescriptor Error deploying deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:602)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:571)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:603)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:680)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1844)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:575)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:466)
+		at org.apache.catalina.startup.HostConfig.start(HostConfig.java:1584)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:312)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.util.LifecycleBase.setStateInternal(LifecycleBase.java:389)
+		at org.apache.catalina.util.LifecycleBase.setState(LifecycleBase.java:336)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:776)
+		at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:721)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1203)
+		at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1193)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:145)
+		at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:749)
+		at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:211)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardService.startInternal(StandardService.java:415)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:874)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:739)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/ride-online]]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:406)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:179)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:599)
+		... 37 more
+	Caused by: java.lang.IllegalArgumentException: The servlets named [VehicleController] and [com.rideCompany.controller.VehicleController] are both mapped to the url-pattern [/VehicleController] which is not permitted
+		at org.apache.tomcat.util.descriptor.web.WebXml.addServletMappingDecoded(WebXml.java:354)
+		at org.apache.tomcat.util.descriptor.web.WebXml.addServletMapping(WebXml.java:347)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationWebServlet(ContextConfig.java:2559)
+		at org.apache.catalina.startup.ContextConfig.processClass(ContextConfig.java:2264)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsStream(ContextConfig.java:2253)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2163)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2158)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2158)
+		at org.apache.catalina.startup.ContextConfig.processAnnotationsWebResource(ContextConfig.java:2158)
+		at org.apache.catalina.startup.ContextConfig.processClasses(ContextConfig.java:1363)
+		at org.apache.catalina.startup.ContextConfig.webConfig(ContextConfig.java:1273)
+		at org.apache.catalina.startup.ContextConfig.configureStart(ContextConfig.java:973)
+		at org.apache.catalina.startup.ContextConfig.lifecycleEvent(ContextConfig.java:290)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:109)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4366)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:164)
+		... 38 more
+15-Mar-2025 06:10:40.694 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml] has finished in [291] ms
+15-Mar-2025 06:10:40.699 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:10:40.790 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [446] milliseconds
+15-Mar-2025 06:11:39.905 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:11:39.938 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Mar-2025 06:11:39.939 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:11:39.944 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:11:41.559 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.35
+15-Mar-2025 06:11:41.562 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 4 2025 21:16:31 UTC
+15-Mar-2025 06:11:41.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.35.0
+15-Mar-2025 06:11:41.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+15-Mar-2025 06:11:41.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Mar-2025 06:11:41.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Mar-2025 06:11:41.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.2
+15-Mar-2025 06:11:41.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-LTS-86
+15-Mar-2025 06:11:41.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Mar-2025 06:11:41.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Sumedha\Downloads\Music\ride\ride-online
+15-Mar-2025 06:11:41.563 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+15-Mar-2025 06:11:41.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Mar-2025 06:11:41.576 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Mar-2025 06:11:41.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Mar-2025 06:11:41.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Mar-2025 06:11:41.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Mar-2025 06:11:41.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+15-Mar-2025 06:11:41.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Sumedha\Downloads\Music\ride\ride-online
+15-Mar-2025 06:11:41.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Sumedha\Downloads\Music\ride\ride-online\temp
+15-Mar-2025 06:11:41.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\logging.properties
+15-Mar-2025 06:11:41.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Mar-2025 06:11:41.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=3234
+15-Mar-2025 06:11:41.577 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Mar-2025 06:11:41.641 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Sumedha\dev\flutter\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Users\Sumedha\AppData\Local\Android\Sdk\platform-tools;C:\xampp\mysql\bin;C:\Users\Sumedha\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Program Files\Java\jdk-21\bin;C:\dart-sdk\bin;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Sumedha\dev\flutter\bin;C:\Users\Sumedha\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Sumedha\AppData\Local\Programs\Python\Python311\;C:\Users\Sumedha\AppData\Local\Microsoft\WindowsApps;C:\Users\Sumedha\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Sumedha\AppData\Roaming\Composer\vendor\bin;C:\Users\Sumedha\AppData\Local\GitHubDesktop\bin;C:\xampp\mysql\bin;C:\Program Files\Java\jdk-21\bin;C:\Users\Sumedha\AppData\Local\JetBrains\Toolbox\scripts;C:\dart-sdk\bin;C:\Users\Sumedha\AppData\Roaming\npm;C:\Users\Sumedha\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\bin;;.]
+15-Mar-2025 06:11:41.893 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:11:41.913 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [799] milliseconds
+15-Mar-2025 06:11:41.955 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Mar-2025 06:11:41.955 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.35]
+15-Mar-2025 06:11:41.967 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml]
+15-Mar-2025 06:11:43.213 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Mar-2025 06:11:43.395 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml] has finished in [1,427] ms
+15-Mar-2025 06:11:43.398 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:11:43.456 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1542] milliseconds
+15-Mar-2025 06:17:29.669 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:17:29.705 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Mar-2025 06:17:29.713 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:17:29.717 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:17:31.467 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.35
+15-Mar-2025 06:17:31.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 4 2025 21:16:31 UTC
+15-Mar-2025 06:17:31.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.35.0
+15-Mar-2025 06:17:31.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+15-Mar-2025 06:17:31.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Mar-2025 06:17:31.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Mar-2025 06:17:31.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17.0.2
+15-Mar-2025 06:17:31.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.2+8-LTS-86
+15-Mar-2025 06:17:31.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Mar-2025 06:17:31.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Sumedha\Downloads\Music\ride\ride-online
+15-Mar-2025 06:17:31.472 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\Tomcat 10.1
+15-Mar-2025 06:17:31.481 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Mar-2025 06:17:31.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Mar-2025 06:17:31.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Mar-2025 06:17:31.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Mar-2025 06:17:31.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Mar-2025 06:17:31.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\Tomcat 10.1
+15-Mar-2025 06:17:31.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Sumedha\Downloads\Music\ride\ride-online
+15-Mar-2025 06:17:31.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Sumedha\Downloads\Music\ride\ride-online\temp
+15-Mar-2025 06:17:31.482 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\logging.properties
+15-Mar-2025 06:17:31.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Mar-2025 06:17:31.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\lib\idea_rt.jar=26326
+15-Mar-2025 06:17:31.483 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Mar-2025 06:17:31.546 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-17.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\Sumedha\dev\flutter\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Users\Sumedha\AppData\Local\Android\Sdk\platform-tools;C:\xampp\mysql\bin;C:\Users\Sumedha\AppData\Local\Android\Sdk\cmdline-tools\latest\bin;C:\Program Files\Java\jdk-21\bin;C:\dart-sdk\bin;C:\Program Files (x86)\dotnet\;C:\Program Files\nodejs\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Sumedha\dev\flutter\bin;C:\Users\Sumedha\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Sumedha\AppData\Local\Programs\Python\Python311\;C:\Users\Sumedha\AppData\Local\Microsoft\WindowsApps;C:\Users\Sumedha\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Sumedha\AppData\Roaming\Composer\vendor\bin;C:\Users\Sumedha\AppData\Local\GitHubDesktop\bin;C:\xampp\mysql\bin;C:\Program Files\Java\jdk-21\bin;C:\Users\Sumedha\AppData\Local\JetBrains\Toolbox\scripts;C:\dart-sdk\bin;C:\Users\Sumedha\AppData\Roaming\npm;C:\Users\Sumedha\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\bin;;.]
+15-Mar-2025 06:17:31.809 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:17:31.828 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [518] milliseconds
+15-Mar-2025 06:17:31.863 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Mar-2025 06:17:31.863 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.35]
+15-Mar-2025 06:17:31.874 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml]
+15-Mar-2025 06:17:33.096 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+15-Mar-2025 06:17:33.259 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Sumedha\Downloads\Music\ride\ride-online\conf\Catalina\localhost\ride-online.xml] has finished in [1,385] ms
+15-Mar-2025 06:17:33.264 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Mar-2025 06:17:33.326 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1496] milliseconds

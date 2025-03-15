@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [05/Mar/2025:13:53:24 +0530] "GET /ride-online HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [05/Mar/2025:13:53:29 +0530] "GET /ride-online/ HTTP/1.1" 200 1851
+0:0:0:0:0:0:0:1 - - [05/Mar/2025:13:53:32 +0530] "GET /ride-online/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [05/Mar/2025:13:53:32 +0530] "GET /ride-online-application/css/log_reg_fo.css HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [05/Mar/2025:13:53:32 +0530] "GET /ride-online/images/home.svg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [05/Mar/2025:13:53:33 +0530] "GET /favicon.ico HTTP/1.1" 404 682
