@@ -37,10 +37,33 @@
             <li>
                 <a href="MngAdmin?action=adminSpace">
                     <i class='bx bxs-shopping-bag-alt'></i>
-                    <span class="text">Go Back</span>
+                    <span class="text">Admin</span>
                 </a>
             </li>
-
+            <li>
+                <a href="#">
+                    <i class='bx bxs-shopping-bag-alt'></i>
+                    <span class="text">Vehicles</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class='bx bxs-doughnut-chart'></i>
+                    <span class="text">Analytics</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class='bx bxs-message-dots'></i>
+                    <span class="text">Message</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <i class='bx bxs-group'></i>
+                    <span class="text">Team</span>
+                </a>
+            </li>
         </ul>
         <ul class="side-menu">
             <li>
@@ -80,7 +103,7 @@
                 <span class="num">8</span>
             </a>
             <a href="#" class="profile">
-                <h6>Sumedha</h6>
+                <img src="img/people.png">
             </a>
         </nav>
         <!-- NAVBAR -->

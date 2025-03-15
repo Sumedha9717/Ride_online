@@ -32,7 +32,7 @@
         <section class="left">
             <p class="title">RIDE-IT - Easy and Fast</p>
             <p class="msg">Book your ride with ease! Our car booking platform offers a seamless experience to find, compare, and reserve vehicles at the best rates. Whether you need a quick city ride or a long-distance journey, we’ve got you covered. Choose your car, select your date, and hit the road hassle-free!</p>
-            <a href="Login?action=log"><button class="cta">Get Started</button></a>
+            <a href="LoginController?action=login"><button class="cta">Get Started</button></a>
         </section>
 
         <section class="right">

@@ -1,15 +1,17 @@
 package com.rideCompany.service;
 
-import com.rideCompany.dao.LoginDao;
-import com.rideCompany.model.User;
+import com.rideCompany.dao.LoginDAO;
+import com.rideCompany.dao.RegisterDAO;
 
 public class LoginService {
     private static LoginService instance;
-    private LoginDao loginDao;
+    private LoginDAO loginDAO;
 
+    //---------------------------------------------------- Private constructor for Singleton Pattern-----------------------------------------
     private LoginService() {
-        this.loginDao = new LoginDao();
+        this.loginDAO = new LoginDAO();
     }
+
 
     public static LoginService getInstance() {
         if (instance == null) {
@@ -21,13 +23,4 @@ public class LoginService {
         }
         return instance;
     }
-    public User logUser(String username, String password) {
-        return loginDao.validateUser(username, password);
-    }
-
 }
-
-
-
-
-
